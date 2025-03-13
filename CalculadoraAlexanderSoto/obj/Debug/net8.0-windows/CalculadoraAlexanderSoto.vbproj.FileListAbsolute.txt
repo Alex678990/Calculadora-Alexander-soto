@@ -1,0 +1,17 @@
+C:\Users\Hp\source\repos\CalculadoraAlexanderSoto\CalculadoraAlexanderSoto\bin\Debug\net8.0-windows\CalculadoraAlexanderSoto.exe
+C:\Users\Hp\source\repos\CalculadoraAlexanderSoto\CalculadoraAlexanderSoto\bin\Debug\net8.0-windows\CalculadoraAlexanderSoto.deps.json
+C:\Users\Hp\source\repos\CalculadoraAlexanderSoto\CalculadoraAlexanderSoto\bin\Debug\net8.0-windows\CalculadoraAlexanderSoto.runtimeconfig.json
+C:\Users\Hp\source\repos\CalculadoraAlexanderSoto\CalculadoraAlexanderSoto\bin\Debug\net8.0-windows\CalculadoraAlexanderSoto.dll
+C:\Users\Hp\source\repos\CalculadoraAlexanderSoto\CalculadoraAlexanderSoto\bin\Debug\net8.0-windows\CalculadoraAlexanderSoto.pdb
+C:\Users\Hp\source\repos\CalculadoraAlexanderSoto\CalculadoraAlexanderSoto\obj\Debug\net8.0-windows\CalculadoraAlexanderSoto.Form1.resources
+C:\Users\Hp\source\repos\CalculadoraAlexanderSoto\CalculadoraAlexanderSoto\obj\Debug\net8.0-windows\CalculadoraAlexanderSoto.vbproj.GenerateResource.cache
+C:\Users\Hp\source\repos\CalculadoraAlexanderSoto\CalculadoraAlexanderSoto\obj\Debug\net8.0-windows\CalculadoraAlexanderSoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\CalculadoraAlexanderSoto\CalculadoraAlexanderSoto\obj\Debug\net8.0-windows\CalculadoraAlexanderSoto.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\CalculadoraAlexanderSoto\CalculadoraAlexanderSoto\obj\Debug\net8.0-windows\CalculadoraAlexanderSoto.AssemblyInfo.vb
+C:\Users\Hp\source\repos\CalculadoraAlexanderSoto\CalculadoraAlexanderSoto\obj\Debug\net8.0-windows\CalculadoraAlexanderSoto.vbproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CalculadoraAlexanderSoto\CalculadoraAlexanderSoto\obj\Debug\net8.0-windows\CalculadoraAlexanderSoto.dll
+C:\Users\Hp\source\repos\CalculadoraAlexanderSoto\CalculadoraAlexanderSoto\obj\Debug\net8.0-windows\refint\CalculadoraAlexanderSoto.dll
+C:\Users\Hp\source\repos\CalculadoraAlexanderSoto\CalculadoraAlexanderSoto\obj\Debug\net8.0-windows\CalculadoraAlexanderSoto.pdb
+C:\Users\Hp\source\repos\CalculadoraAlexanderSoto\CalculadoraAlexanderSoto\obj\Debug\net8.0-windows\CalculadoraAlexanderSoto.genruntimeconfig.cache
+C:\Users\Hp\source\repos\CalculadoraAlexanderSoto\CalculadoraAlexanderSoto\obj\Debug\net8.0-windows\ref\CalculadoraAlexanderSoto.dll
+C:\Users\Hp\source\repos\CalculadoraAlexanderSoto\CalculadoraAlexanderSoto\obj\Debug\net8.0-windows\CalculadoraAlexanderSoto.sourcelink.json
